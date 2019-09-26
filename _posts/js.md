@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Jquery的相关知识点"
+subtitle: 'Jquery knowledge'
+author: "Zhao"
+header-style: text
+tags:
+  - Vim
+
+---
+
 # 一.JQuery特性
 
 ## 1.jquery是什么？

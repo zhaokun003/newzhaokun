@@ -17,8 +17,7 @@ weibo_username:     Zhao Kun
 zhihu_username:     Zhao Kun
 github_username:    Zhao Kun
 twitter_username:   Zhao Kun
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+
 
 
 
@@ -72,13 +71,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: zhaokun003.github.io
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "For the next quantum leap<br>不充钱 怎么能变得更强？"
 sidebar-avatar: /img/0.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

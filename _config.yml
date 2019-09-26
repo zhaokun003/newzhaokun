@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+title: Kun Blog
+SEOTitle: 赵坤的博客 | Kun Blog
+header-img: img/zhaokun-1.jpeg
+email: zk943053902@aliyun.com
+description: "关于程序，摄影师与游戏天才 | 这里是 @赵坤 的个人博客，与你一起发现更大的世界。"
+keyword: "Kun Blog, 博客, 个人网站, 互联网, Web, JavaScript, PHP，前端, 设计"
+url: "https://zhaokun003.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     zhaokun
+zhihu_username:     zhaokun
+github_username:    zhaokun
+twitter_username:   zhaokun
+#facebook_username:  zhaokun
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -78,8 +78,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "For the next quantum leap<br>只有充钱 才能变得更强！"
+sidebar-avatar: /img/0.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

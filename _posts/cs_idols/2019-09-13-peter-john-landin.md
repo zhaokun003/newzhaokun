@@ -1,6 +1,6 @@
 ---
-title: "Peter John Landin"
-subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
+title: "Jquery"
+subtitle: "jquery的总结"
 layout: post
 author: "Hux"
 header-style: text
